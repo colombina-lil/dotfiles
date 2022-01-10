@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lily.c.reece@gmail.com
+	name = Lily Reece
